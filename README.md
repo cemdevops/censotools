@@ -1,2 +1,2 @@
 # censotools
-Repository for tools used in conjunction with censoapp
+This repository contains tools used in conjunction with the census application (censoapp)
